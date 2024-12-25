@@ -1,0 +1,2 @@
+These are html docs that make it easier for people to do therapy exercieses in a web page. The page allows work to be saved and then reuplodaded so the client always has their work on their own devices and it is never stored on the host machine.
+Anyone is welcome to run this on their own server, clinics are welcome to copy it onto their websites with no attribution. Please help yourselves and develop it further if you find it helpful. 
